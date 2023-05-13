@@ -1,3 +1,4 @@
+
 class Solution:
     def hcf(self, a, b):
         if a == b:
